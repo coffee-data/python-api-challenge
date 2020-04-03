@@ -15,4 +15,11 @@ University of Texas Data Analytics Bootcamp Challenge using Python and API inter
   * A tool great for visualizing data quickly with python code. Matplotlib executes inline.
   
 ## Project Highlights
-### Initializing Cities and Creating Heatmap
+### Creating Heatmap
+![General Heatmap](https://github.com/coffee-data/python-api-challenge/blob/master/06-Python-APIs/github_screenshots/map1.png)
+
+### Using Python code to pull API and locate hotels.
+![API code](https://github.com/coffee-data/python-api-challenge/blob/master/06-Python-APIs/github_screenshots/Screen%20Shot%202020-04-03%20at%2010.25.43%20AM.png)
+
+### Ending with pins for all my potential hotel spots.
+![Pins](https://github.com/coffee-data/python-api-challenge/blob/master/06-Python-APIs/github_screenshots/map.png)
